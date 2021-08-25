@@ -1,0 +1,11 @@
+lib/
+node_modules/
+scripts/
+.npm
+#NodeRed runtime stuff
+.node-red/.config.json
+.config.nodes.json
+.config.runtime.json
+.config.users.json
+.node-red/.sessions.json
+.node-red/*.backup

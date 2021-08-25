@@ -1,0 +1,13 @@
+{
+    "name": "node-red-project",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "scripts": {
+       "start": "node-red --settings ./settings.js --userDir ./"
+    },    
+	"private": true,
+    "dependencies": {
+		"node-red": "~2.0.5",
+        "node-red-dashboard": "~2.30.0"
+    }
+}
